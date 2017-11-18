@@ -1,0 +1,18 @@
+{
+  "/": {
+    "handler" : "main",
+    "action"  : "index"
+  },
+  "/auth": {
+    "handler": "main",
+    "action": "auth"
+  },
+  "/profile": {
+    "handler": "main",
+    "action": "profile"
+  },
+  "/changes": {
+    "handler": "main",
+    "action": "changes"
+  }
+}
